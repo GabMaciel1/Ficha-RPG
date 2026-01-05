@@ -11,6 +11,8 @@ data amazernado em classe Personagem.cs e DadosFixos.cs(Minha ficha atual)
 
 X - Ficha editavel em tempo de execução com dados armazenados após enceramento do programa
 
+!! Pasta Packages possui inumeros pacotes importados sem uso. Pra ser sincero acho que 3 megas do projeto é apenas de recursos descartados.
+
 ---------------------
 
 Feito durante as ferias.
