@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe">
+    <Properties Name="DebuggerProjectSystem">
+      <Property Name="AttachLaunchAction" Value="No" />
+      <Property Name="Environment" Value="Padrão" />
+      <Property Name="Executable" Value="C:\Users\cr21c\source\repos\GabMaciel1\RPgfilesla\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe" />
+      <Property Name="IORedirection" Value="Auto" />
+      <Property Name="LaunchingEngine" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="LaunchSQLEngine" Value="No" />
+      <Property Name="PortSupplier" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="RemoteMachine" Value="WIN-BPO2NNC5NTG" />
+      <Property Name="StartingDirectory" Value="C:\Users\cr21c\source\repos\GabMaciel1\RPgfilesla\WindowsFormsApp1\bin\Debug" />
+      <Property Name="UseLegacyDebugEngines" Value="No" />
+    </Properties>
+  </Project>
+</Solution>
